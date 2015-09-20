@@ -1,0 +1,17 @@
+﻿Build started 27/03/2014 14:46:57.
+     1>Project "I:\chilkat-9.4.1-x86-vc10\LinkSample\LinkSample.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\EE6032_Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         LinkSample.vcxproj -> I:\chilkat-9.4.1-x86-vc10\LinkSample\Release\EE6032_Project.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\EE6032_Project.unsuccessfulbuild".
+         Touching "Release\EE6032_Project.lastbuildstate".
+     1>Done Building Project "I:\chilkat-9.4.1-x86-vc10\LinkSample\LinkSample.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.34
